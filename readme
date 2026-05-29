@@ -1,0 +1,29 @@
+# 🐍 Desafios de Python 3 - Mundo 1 - Curso em Video
+
+Este repositório contém as soluções dos desafios propostos no curso de Python 3 do **Curso em Vídeo**, ministrado pelo professor [Gustavo Guanabara](https://www.youtube.com/c/CursoemVídeo).
+
+## 🚀 Aulas  da Playlist Mundo 1 de Python: 
+ Crie esse repositorio  com o intuito de registrar minha evolução nos estudos e praticas da linguagem python por meio das aulas do curso em video ministradas pelo professor gustavo guanabara , desde os topicos iniciais do mundo 1 ao mundo 3 e as práticas de programação orientada a objetos (OOP - Python)
+
+### 📂 Exercícios Resolvidos
+EXERCICIOS/
+├── 01_conceitos_basicos/
+│   ├── Operadores/
+│   ├── desafioexe03.py
+│   ├── exe01.py
+│   ├── exe02.py
+│   └── exe03.tiposprimitivos...
+├── 02_estruturas_condicio...
+└── 03_laços_repetição/
+    └── readme
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagem:** Python 3.x [1]
+- **IDE:** VSCODE
+- **Conceitos:**  Em andamento .
+
+## 📝 Como usar
+Para executar qualquer exercício, basta ter o Python instalado e rodar:
+`python ex005.py`
